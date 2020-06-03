@@ -5,7 +5,12 @@ import './App.css';
 function App() {
     return (
         <div>
-<p>fjdfjkfd</p>
+
+            <ul>
+                <li>a</li>
+                <li>b</li>
+                <li>c</li>
+            </ul>
         </div>
     );
 }
