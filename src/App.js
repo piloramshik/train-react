@@ -5,12 +5,7 @@ import './App.css';
 function App() {
     return (
         <div>
-
-            <ul>
-                <li>a</li>
-                <li>b</li>
-                <li>c</li>
-            </ul>
+            <p>test commit /////</p>
         </div>
     );
 }
